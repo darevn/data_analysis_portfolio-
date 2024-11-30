@@ -1,2 +1,3 @@
-# data_analysis_portfolio-
-I have created this repository to showcase the skills I learned and track my progress in Data Analytics.
+# Timur Alekperov data analysis portfolio
+Здравствуйте
+В этом репозитории я буду выкладывать свои учебные проекты по анализу данных для портфолио
