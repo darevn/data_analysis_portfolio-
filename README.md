@@ -9,5 +9,10 @@
 Данные результатов опросов с 2020 по 2024 год взяты с https://survey.stackoverflow.co/
 Дашборд доступен по ссылке https://datalens.yandex/5r752603njtcs
 
-2) Финальный проект по итогу обучения на курсе Аналитик Данных школы Карпова (https://lab.karpov.courses/) [final-_project](https://github.com/darevn/data_analysis_portfolio-/blob/main/final_project.ipynb)
-   
+2) Финальный проект по итогу обучения на курсе Аналитик Данных школы Карпова (https://lab.karpov.courses/)
+
+   Проект доступен по ссылке: [final-_project](https://github.com/darevn/data_analysis_portfolio-/blob/main/final_project.ipynb)
+
+   датасеты доступны по ссылке https://disk.yandex.ru/client/disk/Karpov_Final_Project_data_set
+
+   В этом проекте были проанализированы данные А/Б теста юзеров мобильного игрового приложения, применены статкритерии для оценки значимости отличий и предложены метрики на которые стоит обращать внимание при работе с продуктом.
